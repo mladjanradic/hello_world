@@ -1,1 +1,3 @@
-add a line
+lorem ipsum
+
+I had to change a file and add new lilnes
